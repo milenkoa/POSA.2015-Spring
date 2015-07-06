@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\milenko\AndroidstudioProjects\Spring-assignment11\app\libs\retrofit-1.7.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cc6807da6fdf91bea1b6a4a90c3818dac27d335f">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\Spring-assignment11\app\build\intermediates\pre-dexed\debug\retrofit-1.7.0-403f39c57b0e7fd148fdd7425814603c559e2cd1.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\Spring-assignment11\app\build\intermediates\pre-dexed\debug\gson-2.2.4-40af0daa805326598c4a3aaa0e2693ee7b2caa0a.jar" />
+    </item>
+
+</items>
