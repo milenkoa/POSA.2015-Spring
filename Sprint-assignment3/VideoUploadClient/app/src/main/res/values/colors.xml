@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="theme_primary">#127ef8</color>
+    <color name="fab">#33b5e5</color>
+    <color name="black_alpha">#99000000</color>
+
+    <color name="button_disabled">#D6D6D6</color>
+    
+</resources>

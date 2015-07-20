@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\milenko\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-0c910644a957e97c0960caea271feb7d21d76e69.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\libs\com.fasterxml.jackson.annotations.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adaa16df5f1ff56b40fb59362c83886f5413096c">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\com.fasterxml.jackson.annotations-7b9c47aec682811c5720cca1f8b7230c16b78aa8.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\classes-5f7d070b0c6011ee833768d7def3d761bb82563b.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-817e4866f36122df6a0a0113ed66957d3d3adabd.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\commons-io-2.4-a9d5e7bad347ad1075a4977fdfaa787baff53d0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\libs\retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\retrofit-1.9.0-bb1d195f047ab1c5cfe38335071247e2380c2824.jar" />
+    </item>
+    <item
+        jar="C:\Users\milenko\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.4\a60a5e993c98c864010053cb901b7eab25306568\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\milenko\AndroidstudioProjects\VideoUploadClient\app\build\intermediates\pre-dexed\debug\gson-2.2.4-40af0daa805326598c4a3aaa0e2693ee7b2caa0a.jar" />
+    </item>
+
+</items>

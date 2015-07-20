@@ -1,0 +1,76 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="vandy.mooc.view.ShowVideoActivity">
+
+    <LinearLayout
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <ImageView
+            android:id="@+id/videoThumbnail"
+            android:src="@drawable/ic_thumbnail_placeholder"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+         />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_weight="1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RelativeLayout
+            android:id="@+id/optionsLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/downloadButton"
+                android:src="@drawable/ic_cloud_download_white_48dp"
+                android:background="@color/theme_primary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="downloadVideo"/>
+
+            <ImageButton
+                android:id="@+id/playButton"
+                android:src="@drawable/ic_play_arrow_white_48dp"
+                android:background="@color/theme_primary"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="playVideo" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/videoTitle"
+                android:layout_height="wrap_content"
+                android:layout_width="fill_parent"
+                android:paddingLeft="16dp"/>
+
+            <RatingBar
+                android:id="@+id/ratingbar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:stepSize="1"
+                android:rating="0.0"
+                android:progressTint="@color/theme_primary"/>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/milenko/AndroidstudioProjects/VideoUploadClient/app/src/main/res/layout/activity_show_video.xml -->
